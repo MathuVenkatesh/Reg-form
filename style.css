@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color: azure;
+    margin: 0;
+    padding: 16px;
+}
+img
+{
+    width: 50px;
+    height: 50px;
+    padding: 20px;    
+    
+}
+  
+
+.name
+{
+    padding: 20px;
+    border:0;
+    border-bottom: 1px solid wheat;
+    width: 90%;        
+    
+}
+
+.button
+{
+    padding: 10px;
+    background-color: navy;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    border: none;
+}
+h1
+{
+    margin-top: 50px;
+}
+form
+{
+    border: 2px solid beige;
+    background-color: white;
+    width: 500px;
+    margin: auto;
+}
+.icons
+{
+background-color: rgb(202, 223, 230);
+}
